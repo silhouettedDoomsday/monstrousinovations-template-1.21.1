@@ -1,0 +1,13 @@
+{
+  "itemGroup.monstrousinovations": "Example Mod Tab",
+  "block.monstrousinovations.example_block": "Example Block",
+  "item.monstrousinovations.example_item": "Example Item",
+
+  "monstrousinovations.configuration.title": "Monstrous Inovations Configs",
+  "monstrousinovations.configuration.section.monstrousinovations.common.toml": "Monstrous Inovations Configs",
+  "monstrousinovations.configuration.section.monstrousinovations.common.toml.title": "Monstrous Inovations Configs",
+  "monstrousinovations.configuration.items": "Item List",
+  "monstrousinovations.configuration.logDirtBlock": "Log Dirt Block",
+  "monstrousinovations.configuration.magicNumberIntroduction": "Magic Number Text",
+  "monstrousinovations.configuration.magicNumber": "Magic Number"
+}
