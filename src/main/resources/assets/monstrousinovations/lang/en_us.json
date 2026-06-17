@@ -1,7 +1,9 @@
 {
-  "itemGroup.monstrousinovations": "Example Mod Tab",
+  "itemGroup.monstrousinovations": "Monstrous Inovations",
   "block.monstrousinovations.example_block": "Example Block",
   "item.monstrousinovations.example_item": "Example Item",
+  "block.monstrousinovations.monstrous_ore": "Monstrous Ore",
+  "item.monstrousinovations.monstrous_gem": "Monstrous Gem",
 
   "monstrousinovations.configuration.title": "Monstrous Inovations Configs",
   "monstrousinovations.configuration.section.monstrousinovations.common.toml": "Monstrous Inovations Configs",
